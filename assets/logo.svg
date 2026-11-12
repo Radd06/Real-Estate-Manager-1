@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="44" viewBox="0 0 210 44">
+  <rect x="2" y="4" width="36" height="36" rx="9" fill="#0F766E"/>
+  <path d="M10 22 L20 13 L30 22 M13 20.5 V31 H27 V20.5 M18 31 V25 H22 V31" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="48" y="28" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#14201E">MOSR</text>
+  <text x="104" y="27" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5B6B68">Real Estate Hub</text>
+</svg>
